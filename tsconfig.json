@@ -10,8 +10,6 @@
     "useDefineForClassFields": false,
     "noEmit": true
   },
-  "files": ["src/main.ts"],
-  "include": ["src/**/*.ts", "src/**/*.d.ts"],
   "angularCompilerOptions": {
     "strictInjectionParameters": true,
     "strictTemplates": true
