@@ -1,5 +1,5 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/riyas-portfolio/browser",
+  "outputDirectory": "dist/riyas-portfolio",
   "framework": "angular"
 }
